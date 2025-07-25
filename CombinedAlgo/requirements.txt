@@ -1,0 +1,32 @@
+# Core Deep Learning Frameworks
+torch>=1.10
+torchvision>=0.11
+tensorflow>=2.8
+
+# YOLOv8
+ultralytics
+
+# Data Handling and Processing
+numpy
+opencv-python
+pandas
+tqdm
+pillow
+matplotlib
+scikit-learn
+
+# Augmentation
+imgaug
+
+# Optional: For KITTI dataset handling (if you want a helper)
+pykitti
+
+# TensorBoard (for both PyTorch and TensorFlow)
+tensorboard
+tensorboardX
+
+# Jupyter/IPython (for SVG display, optional)
+ipython
+
+# If you use any specific model weights or need h5py for Keras
+h5py
