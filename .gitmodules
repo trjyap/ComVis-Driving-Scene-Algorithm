@@ -1,3 +1,6 @@
 [submodule "YOLOv8-3D"]
 	path = YOLOv8-3D
 	url = https://github.com/bharath5673/YOLOv8-3D.git
+[submodule "Deeplab-Xception"]
+	path = Deeplab-Xception
+	url = https://github.com/jfzhang95/pytorch-deeplab-xception.git
