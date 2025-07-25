@@ -81,7 +81,7 @@ It is best practice to create a separate conda environment for each algorithm if
   ```
 
 ## Credits
-- KITTI dataset: [link]
-- COCO dataset: [link]
-- DeepLab: [link]
-- YOLOv8: [link]
+- KITTI dataset: [https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d]
+- COCO dataset: [https://cocodataset.org/#download]
+- DeepLab: [https://github.com/jfzhang95/pytorch-deeplab-xception]
+- YOLOv8: [https://github.com/bharath5673/YOLOv8-3D]
